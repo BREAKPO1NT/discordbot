@@ -1,1 +1,1 @@
-# discordbot
+This is just where I am archiving my discord bot sourcecode. I will NOT be publicly hosting this bot, however, you are free to use it if you give due credit. Don't be THAT GUY and take the cred for my work.
